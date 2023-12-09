@@ -1,5 +1,5 @@
 
-![Logo](diagrame.png)
+![Logo](pics/1 (1).png)
 
 ##### the project title :
 
@@ -10,6 +10,9 @@ Seamless Care, Strong Hearts: Vitascan IoT, Redefining Heart Health at Your Fing
 #### Overview :
 
 Our project involves the integration of the Vitascan IoT device with a user-friendly mobile app. This combination allows cardiovascular disease (CVD) patients to conveniently input their health data and receive consultations from their homes. Additionally, the app features a predictive capability enabling users to anticipate potential heart attacks.
+
+![Alt text](diagrame.png)
+
 
 #### iot device : VITASCAN :
 
