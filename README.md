@@ -1,19 +1,18 @@
-# VITASCAN-Project-for-IEEE-EMBS-Challenge-
 ##### the project title :
 
 VITASCAN : healthcare monitoring 
 our slogan :
 Seamless Care, Strong Hearts: Vitascan IoT, Redefining Heart Health at Your Fingertips
 
-##### Overview :
+#### Overview :
 
 Our project involves the integration of the Vitascan IoT device with a user-friendly mobile app. This combination allows cardiovascular disease (CVD) patients to conveniently input their health data and receive consultations from their homes. Additionally, the app features a predictive capability enabling users to anticipate potential heart attacks.
 
-##### iot device : VITASCAN :
+#### iot device : VITASCAN :
 
 a multifunctional device “VITASCAN” equipped with sensors 
 
-##### hardware requirements : 
+#### hardware requirements : 
 
 -arduino nano : Microcontroller Board
 
@@ -29,20 +28,20 @@ a multifunctional device “VITASCAN” equipped with sensors
 
 -lcd 16x2 with i2c : Display Module
 
-##### software requirements : 
+#### software requirements : 
 
 -arduino IDE :  Integrated Development Environment
 
--arduino libraries : Embedded Software Libraries
+-arduino libraries : Software Libraries
 
 -communication protocol 
 
 -wifi library 
 
 
-##### usage :
+# usage :
 
-### The IoT device :
+## The IoT device :
 
 "VITASCAN" , powered by the Arduino Nano and equipped with an ESP8266 WiFi module, serves as a versatile hub for connecting and managing various sensors. The AD8232 sensor monitors the patient's heart activity by capturing ECG signals, providing crucial data for cardiovascular health assessment.
 The DHT22 and LM35 sensors measure environmental parameters such as humidity and temperature, offering a comprehensive understanding of the patient's surroundings. The MAX30102 heart rate sensor utilizes optical technology to capture pulse and blood oxygen levels. 
@@ -52,22 +51,22 @@ The ESP8266 adding to bluetooth module facilitates wireless connectivity, enabli
 This interconnected system enhances the overall functionality of the IoT device, transforming it into a powerful tool for remote patient monitoring and timely health interventions.
 
 
-### cloud storage server offers :
+## cloud storage server offers :
 
 data Accessibility , scalability for long-term monitoring and maintaining historical records , real time updates , multiple authorized users can access and collaborate on patient data , remote monitoring , integration with VITASCAN mobile app , for the implementation of data analytics and machine learning algorithms on the stored data
-# used technology : 
+#### used technology : 
 firebase
 
-### machine leaning model :
+## machine leaning model :
 
 data preprocessing and cleaning data and converting sensor readings into meaningful features ,extract features from the sensor data that can contribute to health predictions , use historical patient data to train the machine learning model ,the model make predictions about potential heart attacks based on ECG data+hanges in vital signs , continuous learning to adapt and learn from new data for effectiveness , integration with cloud services for processing and scalability 
-## used technology :
+#### used technology :
 tensorflow , python 
 
-### VITASCAN MOBILE APP : 
+## VITASCAN MOBILE APP : 
 user authentification , dashboard overview providing patient's health satus : heart rate+ ecg data+ temperature + humidity  , provinding real time monitoring vital signs and other parameters , patients receive immediate feedback on any changes , alerts and notifications when the machine learning model detects anomalies or potential health risks , historical data access , user input and feedback ,teleconsultaion features : allowing patients to schedule virtual appointments with healthcare professionals directly through the app , medication Reminders , educational Resources
-
-## used technology : 
+#### used technology : 
 flutter , flutterflow 
+
 
 
