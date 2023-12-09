@@ -1,5 +1,5 @@
 
-![Logo](pics/1 (1).png)
+![Logo](pics/logo1.png)
 
 ##### the project title :
 
