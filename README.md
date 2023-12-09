@@ -44,7 +44,7 @@ a multifunctional device “VITASCAN” equipped with sensors
 
 -wifi library 
 
-![Alt text](videos/vd.mp4)
+[![Alt text](pics/pic1.png)](videos/vd.mp4)
 
 # usage :
 
